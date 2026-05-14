@@ -1,0 +1,12 @@
+# Python environments
+tflite_prod/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+Annotated Data/
