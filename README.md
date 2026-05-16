@@ -120,7 +120,7 @@ If you retrain, the new `model.tflite` and `deploy_config.json` are dropped in t
 This repo is the model side of a two-part project:
 
 - **This repo** — produces `model.tflite` and `deploy_config.json`.
-- **SafeMotion Android app** ([SafeMotion-main/](SafeMotion-main/)) — wraps the model in a 4-gate runtime pipeline (impact peak → free-fall dip → ML → post-impact stillness) with SMS + location alerts.
+- **SafeMotion Android app** ([SafeMotion](https://github.com/rhmt80/SafeMotion)) — wraps the model in a 4-gate runtime pipeline (impact peak → free-fall dip → ML → post-impact stillness) with SMS + location alerts.
 
 ## License
 
