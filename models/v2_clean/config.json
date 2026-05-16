@@ -1,0 +1,15 @@
+{
+  "data": "/Users/rchawla/Downloads/Elderly-Fall-Detection-main/processed/dataset.npz",
+  "out_dir": "/Users/rchawla/Downloads/Elderly-Fall-Detection-main/models/v2_clean",
+  "epochs": 60,
+  "batch_size": 128,
+  "lr": 0.001,
+  "dropout": 0.3,
+  "width": 96,
+  "patience": 12,
+  "focal_alpha": 0.75,
+  "noise_std": 0.02,
+  "rot_deg": 8.0,
+  "seed": 42,
+  "no_aug": false
+}
